@@ -1,0 +1,12 @@
+C:\Users\Ivanesa\source\repos\IngresarNumeros\IngresarNumeros\bin\Debug\netcoreapp3.1\IngresarNumeros.exe
+C:\Users\Ivanesa\source\repos\IngresarNumeros\IngresarNumeros\bin\Debug\netcoreapp3.1\IngresarNumeros.deps.json
+C:\Users\Ivanesa\source\repos\IngresarNumeros\IngresarNumeros\bin\Debug\netcoreapp3.1\IngresarNumeros.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\IngresarNumeros\IngresarNumeros\bin\Debug\netcoreapp3.1\IngresarNumeros.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\IngresarNumeros\IngresarNumeros\bin\Debug\netcoreapp3.1\IngresarNumeros.dll
+C:\Users\Ivanesa\source\repos\IngresarNumeros\IngresarNumeros\bin\Debug\netcoreapp3.1\IngresarNumeros.pdb
+C:\Users\Ivanesa\source\repos\IngresarNumeros\IngresarNumeros\obj\Debug\netcoreapp3.1\IngresarNumeros.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\IngresarNumeros\IngresarNumeros\obj\Debug\netcoreapp3.1\IngresarNumeros.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\IngresarNumeros\IngresarNumeros\obj\Debug\netcoreapp3.1\IngresarNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Ivanesa\source\repos\IngresarNumeros\IngresarNumeros\obj\Debug\netcoreapp3.1\IngresarNumeros.dll
+C:\Users\Ivanesa\source\repos\IngresarNumeros\IngresarNumeros\obj\Debug\netcoreapp3.1\IngresarNumeros.pdb
+C:\Users\Ivanesa\source\repos\IngresarNumeros\IngresarNumeros\obj\Debug\netcoreapp3.1\IngresarNumeros.genruntimeconfig.cache
